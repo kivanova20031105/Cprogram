@@ -11,6 +11,7 @@ int main ()
     cin>>otgovor;
     cout<<"okey"<<endl;
     return 0;
+    // hahaha
 }
 
 
